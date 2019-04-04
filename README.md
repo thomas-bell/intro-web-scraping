@@ -1,15 +1,9 @@
-# Learn to Code: Introduction Web Scraping
+#Introduction Web Scraping For Digital Marketing 
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
-Get to this repo by typing in URL: **scrape.sage.codes**
+Get to this repo by typing in URL: 
 
-### FAQ: 
-
-- WIFI: `Galvanize Guest` | Password: `beapineapple`
-- Bathrooms: Behind you down the hall to the left
-- Kitchen outside back classroom door with Coffee & Tea!
-- Snacks + water in back of room
 
 ## What this workshop is
 
