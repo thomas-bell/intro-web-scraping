@@ -208,6 +208,8 @@ Book mark this repo or the colla notebook and experiement with the code. Try a d
 
 - [Free Data Science Prep](https://www.galvanize.com/data-science-prep)
 
+_ [Python Fundamentals: 3 Week Evening Intensive (6/3/19 - 6/20/19)](https://www.eventbrite.com/e/python-fundamentals-3-week-evening-intensive-6319-62019-tickets-61111366743)
+
 
 
 - Checkout [Scrapy](https://scrapy.org/). Another python module foring doing web scraping. 
@@ -219,7 +221,7 @@ Book mark this repo or the colla notebook and experiement with the code. Try a d
 
 We host so many events! check out our [calendar](https://www.galvanize.com/events)
 
-Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
+Visit the [Learn to code Denver](https://www.meetup.com/Colorado-Data-Science/) meetup for all upcoming events.
 
 
 ## What is Galvanize?
