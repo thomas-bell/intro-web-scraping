@@ -41,18 +41,14 @@ The goal of this brief course is to provide you with a fun introduction to web S
 #### Here's what we'll be doing:
 * A primer on some technologies we're going to use
 * Building a simple web scraper with Python
-* I'll leave you with a coupl challenges at the end. You can try to complete them here if we have time, or try them at home!
+* I'll leave you with a couple challenges at the end. You can try to complete them here if we have time, or try them at home!
 
 
 ## About me:
-Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! Currently learning more about computer vision with deep learning and helping a startup with a lane detection system for a self driving car application.
+Hello I'm [Thomas Bell](). I'm an Evangelist here at Galvanize! I love making things with technology!
 
- I'm not a Galvanize Instructor, they're way better at teaching!
 
-- Website: [sageelliott.com](http://sageelliott.com/)
-- Twitter: [@sagecodes](https://twitter.com/@sagecodes)
-- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
-- Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
+
 
 
 ## About you!
@@ -230,14 +226,13 @@ Visit the [Learn to code Denver](https://www.meetup.com/Colorado-Data-Science/) 
 
 #### Immersive Bootcamp
 
-- [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/2/19 
+- [Data Science](https://www.galvanize.com/data-science) - 8/19/10
 
-- [Software Engineer](https://www.galvanize.com/web-development) - 2/19/19 - 5/17/19
+- [Software Engineer](https://www.galvanize.com/web-development) - 7/22/19
 
 #### Part-Time Courses
 
-- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) 2/12/19 - 5/2/19
-- [Python Fundamentals](https://www.galvanize.com/part-time/data-science-fundamentals) - 2/20/19 - 3/29/19
+- [Python 3 week 6/3 - 6/20](http://bit.ly/Python3week)
 
 #### Co-working Space
 
@@ -249,11 +244,7 @@ Visit the [Learn to code Denver](https://www.meetup.com/Colorado-Data-Science/) 
 
 Please feel free to reach out to me with any questions! Let me know what you're planning to do next and how I can help!
 
-
-- Website: [sageelliott.com](http://sageelliott.com/)
-- Twitter: [@sagecodes](https://twitter.com/@sagecodes)
-- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
-- Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
+- Email: [thomas.bell@galvanize.com](mailto:thomas.bell@galvanize.com)
 
 
 
