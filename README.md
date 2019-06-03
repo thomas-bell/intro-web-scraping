@@ -1,9 +1,9 @@
-#Introduction Web Scraping For Digital Marketing 
+#Introduction to Web Scraping using Python 
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
 Get to this repo by typing in URL: 
-
+https://github.com/thomas-bell/intro-web-scraping
 
 ## What this workshop is
 
@@ -45,8 +45,7 @@ The goal of this brief course is to provide you with a fun introduction to web S
 
 
 ## About me:
-Hello I'm [Thomas Bell](). I'm an Evangelist here at Galvanize! I love making things with technology!
-
+Hello I'm [Thomas Bell](). I'm an Evangelist here at Galvanize! I love helping people learn and explore their passion for programming.
 
 
 
@@ -70,13 +69,13 @@ Many sites have APIs you can connect to and use to pull data from.  Such as the 
 
 ### Where is it used?
 
-Really any where you think it would be appriate to gather data. 
+Really any where you think it would be appropriate to gather data. 
 
-Some people I've met have built web scraper to look for jobs & find apartments.
+Some people I've met have built a web scraper to look for jobs & find apartments.
 
 Companies may search for email or contact information
 
-Competitive analysis on a competing company, what prices do they have?
+Competitive analysis on a competing company. 
 
 Realtors may scrape housing listings
 
@@ -204,11 +203,11 @@ Book mark this repo or the colla notebook and experiement with the code. Try a d
 
 - [Free Data Science Prep](https://www.galvanize.com/data-science-prep)
 
-_ [Python Fundamentals: 3 Week Evening Intensive (6/3/19 - 6/20/19)](https://www.eventbrite.com/e/python-fundamentals-3-week-evening-intensive-6319-62019-tickets-61111366743)
+_ [Python Fundamentals: 3 Week Evening Intensive (7/15/19 - 8/1/19)](http://bit.ly/Python3weekJuly)
 
 
 
-- Checkout [Scrapy](https://scrapy.org/). Another python module foring doing web scraping. 
+- Checkout [Scrapy](https://scrapy.org/). Another python module for doing web scraping. 
 
 
 
@@ -217,7 +216,7 @@ _ [Python Fundamentals: 3 Week Evening Intensive (6/3/19 - 6/20/19)](https://www
 
 We host so many events! check out our [calendar](https://www.galvanize.com/events)
 
-Visit the [Learn to code Denver](https://www.meetup.com/Colorado-Data-Science/) meetup for all upcoming events.
+Visit the [Learn to code Denver](https://www.meetup.com/learn-to-code-colorado/) meetup or [Colorado Data Science Meetup](https://www.meetup.com/Colorado-Data-Science/) for upcoming events.
 
 
 ## What is Galvanize?
@@ -232,7 +231,9 @@ Visit the [Learn to code Denver](https://www.meetup.com/Colorado-Data-Science/) 
 
 #### Part-Time Courses
 
-- [Python 3 week 6/3 - 6/20](http://bit.ly/Python3week)
+_ [Python Fundamentals: 3 Week Evening Intensive (7/15/19 - 8/1/19)](http://bit.ly/Python3weekJuly)
+
+Tuition Credit avialable for those looking to do the data scinece immersive
 
 #### Co-working Space
 
