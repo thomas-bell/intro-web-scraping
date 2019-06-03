@@ -2,6 +2,11 @@
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
+WIFI Network: 
+
+Network: GEvents 
+Password: GEvents1644
+
 Get to this repo by typing in URL: 
 https://github.com/thomas-bell/intro-web-scraping
 
