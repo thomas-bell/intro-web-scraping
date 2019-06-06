@@ -238,7 +238,7 @@ Visit the [Learn to code Denver](https://www.meetup.com/learn-to-code-colorado/)
 
 _ [Python Fundamentals: 3 Week Evening Intensive (7/15/19 - 8/1/19)](http://bit.ly/Python3weekJuly)
 
-Tuition Credit avialable for those looking to do the data scinece immersive
+100% Tuition Credit avialable for those looking to do the data science immersive
 
 #### Co-working Space
 
